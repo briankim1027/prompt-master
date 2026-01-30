@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Master Architect",
+  "description": "A high-end mobile-first prompt engineering tool that uses Gemini 3 Pro's deep reasoning to transform simple ideas into structured, high-performance prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
